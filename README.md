@@ -12,6 +12,7 @@ Secure API routes with JWT middleware
 MongoDB integration for persistent storage# Smart_Device_management_System
 
 Project Structure:-
+
 AuthApp/
 │── config/
 │   └── database.js       # MongoDB connection
@@ -19,7 +20,7 @@ AuthApp/
 │   ├── User.js           # User schema
 │   └── Device.js         # Device schema
 │── routes/
-│   └── user.js           # Auth routes
+│   ├── user.js           # Auth routes
 │   └── device.js         # Device routes
 │── middleware/
 │   └── auth.js           # JWT authentication middleware
