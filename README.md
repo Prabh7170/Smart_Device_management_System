@@ -54,7 +54,7 @@ Some images attached below showing the working of code tested on postman:-
 
 ![image_alt](https://github.com/Prabh7170/Smart_Device_management_System/blob/9d659f9a7a82b06d52ec8682404efc655fd238e9/Screenshot%20(164).png)
 
-![image_alt](
+![image_alt](https://github.com/Prabh7170/Smart_Device_management_System/blob/7c4b2fc7b08402f71be0334f93bc6e8d605b1e95/Screenshot%20(165).png)
 
 
 
