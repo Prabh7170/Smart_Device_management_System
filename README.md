@@ -48,4 +48,9 @@ npm start
 5.Test APIs in Postman
 
 
+Some images attached below showing the working of code tested on postman:-
+
+![image_alt](https://github.com/Prabh7170/Smart_Device_management_System/blob/158e6026949edd83f604620fd5f2c0442db566f2/Screenshot%20(163).png)
+
+
 
